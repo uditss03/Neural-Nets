@@ -6,8 +6,15 @@ Neural Networks are being used for machine learning and applied to speech and ob
 
 1- Single hidden Layer Neural Network
 
-2- Multi Layer Neural Network
+2- MultiLayer Neural Network
+
+### Single Hidden Layer Neural Network
+
+![images](https://user-images.githubusercontent.com/34382779/37252485-7414b610-2547-11e8-8325-8f5ca611a585.png)
 
 
 
+### Multilayer Neural Network
+
+![multi](https://user-images.githubusercontent.com/34382779/37252508-f09994c6-2547-11e8-894e-a20b3f62c169.gif)
 
